@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>七叶林 Blue Jacaranda</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css">
+</head>
+<body>
+  <div id="app"><strong>Loading...</strong></div>
+  <script>
+    window.$docsify = {
+      name: 'Blue Jacaranda',
+      repo: 'https://github.com/EusMC/Blue-Jacaranda.git',
+      loadSidebar: true,
+      notFoundPage: '_404.md',
+      noEmoji: false,
+      auto2top: true,
+			homepage: 'index.md',
+      loadNavbar: true,
+      plugins: [
+				function (hook) {
+					hook.doneEach(function () {
+						if (typeof MathJax !== "undefined") {
+							MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+						}
+					})
+				}
+			],
+      subMaxLevel: 2,
+      coverpage: true,
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+</body>
+</html>

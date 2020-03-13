@@ -1,0 +1,1 @@
+- [**快速入门**](post/getting-start.md)
