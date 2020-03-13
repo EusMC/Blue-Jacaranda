@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css">
 </head>
 <body>
-  <div id="app"><strong>Loading...</strong></div>
+  <div id="app"><strong>正在连接EusMC神经网络...</strong></div>
   <script>
     window.$docsify = {
       name: 'Blue Jacaranda',
@@ -20,6 +20,15 @@
       auto2top: true,
 			homepage: 'index.md',
       loadNavbar: true,
+      search: {
+        noData: {
+          '/': '没有结果！'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        }
+      },
       plugins: [
 				function (hook) {
 					hook.doneEach(function () {
@@ -34,5 +43,10 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
 </body>
 </html>
