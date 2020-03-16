@@ -2,4 +2,4 @@
 # **七叶林 Blue Jacaranda**
 
 [快速入门](post/getting-start.md)
-[快速下载Mod Pack](https://github.com/EusMC/BJ-ClientSide-Merge/releases/download/20w11a/BJ-ClientSide-Merge-20w11a.zip)
+[快速下载 ModPack](https://github.com/EusMC/BJ-ClientSide-Merge/releases/download/20w11a/BJ-ClientSide-Merge-20w11a.zip)
