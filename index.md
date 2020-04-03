@@ -1,18 +1,15 @@
 # **七叶林**
 
-![build](https://img.shields.io/badge/build-passing-success?style=flat-square&logo=npm)
-![build](https://img.shields.io/badge/build-passing-orange?style=flat-square&logo=java)
+
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-blue?style=flat-square&logo=mojang)
 ![Forge](https://img.shields.io/badge/Forge-14.23.5.2847-brightgreen?style=flat-square&logo=conda-forge)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ElaBosak233/BJ-ClientSide?style=flat-square)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElaBosak233/BJ-ClientSide?color=orange&include_prereleases&label=prerelease&style=flat-square)
 ![vue.js](https://img.shields.io/badge/vue.js-docsify-success?style=flat-square&logo=vue.js)
 
 ?> 欢迎小伙伴来到EusMC子项目七叶林(Blue Jacaranda)的网站！你可以随心所欲地阅读这些板块和文章，如果你发现了不正确的地方，麻烦你将准确的位置提供给**`EusMC团队`**，我们会第一时间处理问题哒！
 
 ## - 七叶林是什么?
 
-七叶林是由桉树叶团队运营的**独立服务器**，它使用有机组合的第三方模组提供非同寻常的探索体验。
+七叶林是由桉树叶团队运营的**独立服务器**，它使用有机组合的第三方模组深度定制Minecraft提供非同寻常的探索体验。
 
 ## - 接下来我该做什么？
 
