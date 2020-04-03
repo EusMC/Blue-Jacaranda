@@ -69,10 +69,10 @@
 
 <center>
 
-+ ?> ## 提交[**`居民审核申请`**](https://eumc.typeform.com/to/gzLNAl)加入七叶林
++ ?>  提交[**`居民审核申请`**](https://eumc.typeform.com/to/gzLNAl)加入七叶林
 
-+ ?> ## 建议阅读[**`快速入门`**](post/getting-start.md)板块进一步了解七叶林
++ ?>  建议阅读[**`快速入门`**](post/getting-start.md)板块进一步了解七叶林
 
-+ ?> ## 想要详细了解七叶林 **`MODSPACK`**?请查阅[**`模组指南`**](post/mod-guide.md)板块
++ ?>  想要详细了解七叶林 **`MODSPACK`**?请查阅[**`模组指南`**](post/mod-guide.md)板块
 
-+ ?> ## 若你还有疑惑之处，请查阅[**`疑难解答`**](post/FAQ.md)
++ ?>  若你还有疑惑之处，请查阅[**`疑难解答`**](post/FAQ.md)
