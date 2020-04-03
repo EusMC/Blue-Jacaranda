@@ -19,7 +19,7 @@
 
 MineColonies是一个**互动性很强**的的**部落**模组，允许玩家在Minecraft中创建自己的**繁荣城镇**。
 
-###丰收工艺: Pam's HarvestCraft
+### 丰收工艺: Pam's HarvestCraft
 
 包含上千种食材，享受午后田园风光。
 
