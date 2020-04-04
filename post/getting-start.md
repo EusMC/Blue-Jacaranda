@@ -1,8 +1,8 @@
-# ![快速入门](/img/标题.png)
+# ![快速入门](https://sm.ms/image/pKDxlqYT7aGEgcm)
 
 <center>
 
-![标题](/img/标题02.png)
+![标题](https://sm.ms/image/frhlAPVyvNdXK1B)
 
 </center>
 
