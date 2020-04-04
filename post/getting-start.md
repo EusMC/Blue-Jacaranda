@@ -1,8 +1,8 @@
-# ![快速入门](https://sm.ms/image/pKDxlqYT7aGEgcm)
+# ![快速入门](https://i.loli.net/2020/04/04/pKDxlqYT7aGEgcm.png)
 
 <center>
 
-![标题](https://sm.ms/image/frhlAPVyvNdXK1B)
+![标题](https://i.loli.net/2020/04/04/frhlAPVyvNdXK1B.png)
 
 </center>
 
