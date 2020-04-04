@@ -1,14 +1,18 @@
-# ![快速入门](https://i.loli.net/2020/04/04/pKDxlqYT7aGEgcm.png)
+# ![快速入门](../img/heading_quick_start.png)
 
 <center>
 
-![标题](https://i.loli.net/2020/04/04/frhlAPVyvNdXK1B.png)
+![快速入门介绍](https://i.loli.net/2020/04/04/frhlAPVyvNdXK1B.png)
 
 </center>
 
-# 准备阶段
+## - 在一切开始前
 
+?> 七叶林使用`桉树统一认真体系`为玩家社区和谐创造条件，您首先需要在`桉树统一海关`提交居民申请。
 
+如无特别说明，七叶林管理组会在24小时内处理您的申请。一旦通过，您会按照预留的方式得到通知。
+
+## - 准备阶段
 
 
 ?> 你可以通过以下的步骤快速进入七叶林项目
@@ -31,17 +35,9 @@
 
 ### 3. 下载`Mod Pack`
 
-我们目前仅提供单一下资源。
+您可以在七叶林群聊/社区获得下载地址。
 
->**`eumc`**下载源:[https://eusmc.oss-cn-hangzhou.aliyuncs.com/bluejacaranda/mods.rar](https://eusmc.oss-cn-hangzhou.aliyuncs.com/bluejacaranda/mods.rar)
-
-<!--我们提供种方法下载`Mod Pack`，我们首先推荐`Github`下载源，如果你对`Github`的访问速度不理想，我们建议你使用`Gitee`下载源，两个下载源会尽量保持同步更新
-
-> **Github**下载源: [https://github.com/EusMC/BJ-ClientSide-Merge/releases](https://github.com/EusMC/BJ-ClientSide-Merge/releases) 
-
-> **Gitee**下载源: [https://gitee.com/EusMC/BJ-ClientSide/releases](https://gitee.com/EusMC/BJ-ClientSide/releases)
-
-在两个下载源内找到**`release`**或者**`发行版`**选项卡，在里面可以根据版本下载最新版以及历史版本的`Mod Pack`-->
+*我们十分推荐您前往 CurseForge 从原发布网页下载 mods，因为这样可以鼓励模组作者继续开发优秀作品。*
 
 ### 4. 安装`Mod Pack`
 
@@ -57,6 +53,6 @@
 
 > ※ **备用方法:** 在EusMC原服内，输入指令`/server jacaranda`，通过`BC桥`快速传送至七叶林项目
 
-# 开始七叶林之旅
+## - 开始七叶林之旅
 
 !> 参与本项目前请先阅读[**`规章制度`**](post/rules)板块，当你进入七叶林项目时，则默认你已阅读并同意[**`规章制度`**](post/rules)中的所有规章

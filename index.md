@@ -33,7 +33,9 @@
 
 </center>
 
-# ![书签](img/书签_七叶林.png)
+ 
+
+# ![书签](img/heading_what_is.png)
 <center>
 
 ## 七叶林是由桉树叶团队运营的**独立**服务器
@@ -49,7 +51,9 @@
 ## 也是我们一直的追求
 </center>
 
-# ![我会喜欢它吗](img/书签02.png)
+ 
+
+# ![我会喜欢它吗](img/heading_will_i_like.png)
 
 <center>
 
@@ -65,14 +69,18 @@
 
 </center>
 
-# ![接下来我该做什么](img/书签03.png)
+ 
+
+# ![接下来我该做什么](img/heading_whats_next.png)
 
 <center>
 
-+ ?>  提交[**`居民审核申请`**](https://eumc.typeform.com/to/gzLNAl)加入七叶林
 
-+ ?>  建议阅读[**`快速入门`**](post/getting-start.md)板块进一步了解七叶林
+?>  提交[**`居民审核申请`**](https://eumc.typeform.com/to/gzLNAl)加入七叶林
 
-+ ?>  想要详细了解七叶林 **`MODSPACK`**?请查阅[**`模组指南`**](post/mod-guide.md)板块
+?>  建议阅读[**`快速入门`**](post/getting-start.md)板块进一步了解七叶林
 
-+ ?>  若你还有疑惑之处，请查阅[**`疑难解答`**](post/FAQ.md)
+?>  想要详细了解七叶林 **`MODSPACK`**?请查阅[**`模组指南`**](post/mod-guide.md)板块
+
+?>  若你还有疑惑之处，请查阅[**`疑难解答`**](post/FAQ.md)
+
